@@ -1,5 +1,5 @@
 {
-    "correct": 0.9791666666666666,
+    "correct": 1,
     "testStatus": [
         {
             "name": "root -> 1D -> d1",
@@ -108,8 +108,8 @@
         },
         {
             "name": "root -> 1D -> dd6",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nreceived average mismatch: 7749236.261545726"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> 1D -> d6_approx",
